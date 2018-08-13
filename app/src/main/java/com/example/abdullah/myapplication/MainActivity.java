@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                textView.setText("Hello World!");
-                Toast.makeText(MainActivity.this, "This is my Toast message!",
+                textView.setText("Hello world!");
+                Toast.makeText(MainActivity.this, "This is toast message!",
                         Toast.LENGTH_LONG).show();
             }
 

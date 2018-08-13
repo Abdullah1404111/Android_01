@@ -14,6 +14,7 @@
         android:orientation="vertical"
         tools:layout_editor_absoluteX="187dp"
         tools:layout_editor_absoluteY="139dp"
+        android:background="#c3f345"
         android:gravity="center">
 
         <TextView
@@ -21,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Hello world!!"
+            android:text="Hello world!"
             tools:layout_editor_absoluteX="195dp"
             tools:layout_editor_absoluteY="323dp" />
 
